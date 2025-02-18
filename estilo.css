@@ -1,0 +1,28 @@
+body{
+    margin:0%;
+}
+.container{
+    margin-top: 20px;
+    background-color: aquamarine;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.main{
+    background-color: coral;
+    height: 500px;
+}
+.header {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    height: 200px;
+    text-align: center;
+    border: 5px solid #D4AF37;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    background-color: blanchedalmond;
+    height: 30px;
+}
